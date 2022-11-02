@@ -1,0 +1,11 @@
+.titlee {
+    text-align: center;
+    background: rgb(226, 95, 43);
+}
+.container-fluid {
+    background: blueviolet;
+}
+.col {
+    border: 2px solid black;
+    margin: 5px;
+} 
